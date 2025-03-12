@@ -35,7 +35,7 @@ E-Commerce-Customer-Behavior-Personalization/
 | Stacked RF+GB (Phase 1) | 96.13%  |
 | Cluster Boost (Phase 2) | 97.62%  |
 
-🏆 IEEE Publication
+## 🏆 IEEE Publication
 This project has been published at the 2024 IEEE International Conference on Systems, Process & Control (ICSPC 2024).
 
 📄 Paper Title: Cluster Boost: Stacked Machine Learning Model for Customer Behaviour Analysis in E-commerce.
