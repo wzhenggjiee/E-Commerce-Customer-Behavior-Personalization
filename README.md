@@ -38,9 +38,9 @@ E-Commerce-Customer-Behavior-Personalization/
 ## 🏆 IEEE Publication
 This project has been published at the 2024 IEEE International Conference on Systems, Process & Control (ICSPC 2024).
 
-📄 Paper Title: Cluster Boost: Stacked Machine Learning Model for Customer Behaviour Analysis in E-commerce
-🔗 DOI / Conference Link: [(https://ieeexplore.ieee.org/document/10862053/)]
-📅 Conference Date: December 2024
+📄 Paper Title: Cluster Boost: Stacked Machine Learning Model for Customer Behaviour Analysis in E-commerce.
+🔗 DOI / Conference Link: [(https://ieeexplore.ieee.org/document/10862053/)].
+📅 Conference Date: December 2024.
 
 ## 📬 Contact
 For inquiries, feel free to reach out:  
